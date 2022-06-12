@@ -1,0 +1,10 @@
+.Cat_li {
+    color: gray;
+    align-items: center;
+    height: auto;
+  }
+  
+  .Cat_li li {
+    text-align: center;
+  }
+  

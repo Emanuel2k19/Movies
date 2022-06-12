@@ -1,0 +1,21 @@
+
+.redir {
+    display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	transition-duration: 0.35s;
+    background-color: rgb(5, 117, 192);
+    border-radius: 20px;
+    width: 50px;
+    margin: 0 auto;
+}
+.redir:hover {
+    background-color: rgb(0, 153, 255);
+    
+}
+
+h2 label {
+    text-decoration: underline;
+}

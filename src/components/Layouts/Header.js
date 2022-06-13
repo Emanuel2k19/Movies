@@ -19,9 +19,9 @@ const Header = () => {
 
             <div className={classes.topLeftBtn}>
                 <ul className={classes.unList}>
-                    <li><Link to="/">Home</Link></li>
-                    <li><Link to="/">Contact</Link></li>
-                    <li><Link to="/">About</Link></li>
+                    <li><Link to="/">HOME</Link></li>
+                    <li><Link to="/">CONTACT</Link></li>
+                    <li><Link to="/">ABOUT</Link></li>
                 </ul>
             </div>
         </div>

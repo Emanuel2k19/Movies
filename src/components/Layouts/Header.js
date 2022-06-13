@@ -11,7 +11,7 @@ const Header = () => {
 
             <div className={classes.Title}>
                 <Link className={classes.link} to="/">
-                    <h1>MOVIES</h1>
+                    <h1>WatchOut</h1>
                 </Link>
             </div>
 
